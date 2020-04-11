@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "env/bin/python",
+    "python.venvPath": "${workspaceFolder}\\env",
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.linting.pylintEnabled": false
+}
